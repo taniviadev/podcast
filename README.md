@@ -26,6 +26,7 @@ Projeto de podcast desenvolvido para conclusão de desafio do Bootcamp CAIXA - I
 - Áudio gerado pela elevenLabs
 - Microsoft Designer para gerar capas
 - Capcut para aperfeiçoar áudio e som de fundo
+- Edição de imagem com GIMP
 
 ## **📬 Contato**
 - :octocat: [GitHub](https://github.com/taniviadev)
