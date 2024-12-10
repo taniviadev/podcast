@@ -1,5 +1,5 @@
-# 📻 ** Carpa na Farofa **
-## ** mexidão de China, Coreia do Sul e Japão **
+# **📻 Carpa na Farofa**
+## **mexidão de China, Coreia do Sul e Japão**
 ### Projeto Podcast Gerado por I.A.s 
 
 Projeto de podcast desenvolvido para conclusão de desafio do Bootcamp CAIXA - IA Generativa com Microsoft Copilot ft DIO.
